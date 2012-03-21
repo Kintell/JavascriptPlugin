@@ -1,0 +1,3 @@
+name: KintellJavascriptPlugin
+version: 1.0.0
+main: com.kokakiwi.kintell.plugin.javascript.KintellJavascriptPlugin
